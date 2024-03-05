@@ -1,1 +1,0 @@
-# SQL_analysis_of_store
